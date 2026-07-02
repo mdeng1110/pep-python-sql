@@ -1,8 +1,4 @@
 # pep-python-sql
 
-In this project, we worked on the backend, creating an application to manage data in a hypothetical call
-center. Our application handled data for users and calls, and it used that data to provide analytics and
-data ordering functionality.
-The primary technologies leveraged in this project were Python, SQL, and File I/O with .csv files. The
-project was written in Python. Data was loaded into an in-memory SQLite database from existing .csv
-files, and analytic data was saved into new .csv files.
+Developed the backend of a Python application for a simulated call center to manage user and call data. Used Python, SQL, SQLite, and CSV file I/O to import data into an in-memory database, execute SQL queries for data analysis, and generate reports by exporting processed results to CSV files. The application supported data management, analytics, and reporting through efficient data processing and querying.
+
